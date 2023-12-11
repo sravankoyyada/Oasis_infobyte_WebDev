@@ -1,0 +1,61 @@
+body{
+    font-family:'Arial',sans-serif;
+    margin:0;
+    padding:0;
+    background-color:#75d0fa;
+    background-image: url(task2/hii.jpeg);
+    background-image:url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv00TP-r7bz6Sfcjsq4jr5K-LSSodZuZmc4CdvV9ojYHJlOFACXrB34KFvRwlQNaku2n0&usqp=CAU);
+          background-size:cover;
+
+}
+
+header{
+    text-align:center;
+    padding:2em;
+    background-color:#1a1919;
+    color:#fff;
+   /* background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTaAZCPZOSMGUiMVO4LlgalSw3aX2rcBi8DQ&usqp=CAU);
+    background-size: cover;*/
+}
+
+header img{
+   
+    border-radius:15%;
+    width:113px;
+    height:150px;
+    margin-bottom:1em;
+
+}
+
+section{
+    max-width:800px;
+    margin:2em;
+    padding:2em;
+    background-color:#fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    
+}
+
+#content p{
+    margin-bottom:1em;
+}
+
+#decor{
+    text-decoration:"underline";
+    text-decoration:"line-through";
+}
+
+ul{
+    list-style-type:none;
+    padding:0;
+}
+
+#sample img{
+    max-width:100%;
+    height:auto;
+    margin-bottom:1em;
+}
+
+
+
+
